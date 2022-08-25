@@ -40,7 +40,7 @@ public class Etudiant {
 	
 	/**
 	 * 
-	 * @return
+	 * @return student name
 	 */
 	public String getNom() {
 		return nom;
@@ -58,7 +58,7 @@ public class Etudiant {
 	}
 /**
  * 
- * @return
+ * @return student age 
  */
 	public int getAge() {
 		return age;
@@ -76,7 +76,7 @@ public class Etudiant {
 	}
 /**
  * 
- * @return
+ * @return student score
  */
 	public double getMoyenne() {
 		return moyenne;
@@ -92,7 +92,7 @@ public class Etudiant {
 	
 /**
  * 
- * @return
+ * @return student adress 
  */
 	public String getAdresse() {
 		return adresse;
